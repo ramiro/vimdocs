@@ -1,0 +1,4 @@
+@import 'asciidoctor.css';
+
+
+.literalblock pre { background: lightpink }

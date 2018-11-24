@@ -1,0 +1,16 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+black = "==18.9b0"
+flake8 = "~=3.6.0"
+flake8-import-order = "~=0.18"
+flake8-builtins = "~=1.4.1"
+
+[packages]
+attrs = "==18.2.0"
+
+[requires]
+python_version = "3.6"

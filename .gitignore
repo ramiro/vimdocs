@@ -1,0 +1,8 @@
+.bundle
+.cache
+.tox
+.vscode
+adoc/*.adoc
+body.tex
+output
+vendor
